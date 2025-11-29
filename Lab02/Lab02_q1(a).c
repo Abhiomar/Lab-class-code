@@ -1,4 +1,4 @@
-//Q1:WAP a C program to calculate the area and perimeter of a rectangle based on its length and width. User should provide input for length and breadth.(a) all variables should be declared integer type.
+//Q1(a):WAP a C program to calculate the area and perimeter of a rectangle based on its length and width. User should provide input for length and breadth.(a) all variables should be declared integer type.
 #include <stdio.h>
 int main() {
     int length, breadth, area, perimeter;
