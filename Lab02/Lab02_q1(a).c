@@ -2,9 +2,9 @@
 #include <stdio.h>
 int main() {
     int length, breadth, area, perimeter;
-    printf("Enter the length of the rectangle: ");
+    printf("Enter length: ");
     scanf("%d", &length);
-    printf("Enter the breadth of the rectangle: ");
+    printf("Enter rectangle: ");
     scanf("%d", &breadth);
     area = length * breadth;
     perimeter = 2 * (length + breadth);
